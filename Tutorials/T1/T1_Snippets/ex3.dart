@@ -1,4 +1,3 @@
-import 'dart:io';
 
 // This is a dummy comment ^^
 
@@ -20,7 +19,7 @@ void main() {
 
   print('The dynamic value is: $dynamicValue');
 
-  // Type can be changed for dynamic type as it happens in runtime
+  // // Type can be changed for dynamic type as it happens in runtime
 
   dynamicValue = 'Hello';
   print('The dynamic value is: $dynamicValue');
